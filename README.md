@@ -72,7 +72,3 @@ cd equity-options-iv-study
 pip install -r requirements.txt
 python download_data.py   # fetches ^VIX data to VIXCLS.csv
 python iv_research_project.py
-
----
-
-# Equity-Options-IV-Study
