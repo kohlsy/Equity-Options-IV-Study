@@ -1,4 +1,4 @@
-# IV Research Project (Helper + README)
+# IV Research Project
 
 ## Files
 - README.md (this file)
