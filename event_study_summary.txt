@@ -1,0 +1,10 @@
+mean_ramp: -1.471250
+t_stat_ramp: -1.393034
+t_p_ramp: 0.257888
+w_stat_ramp: 1.000000
+w_p_ramp: 0.250000
+mean_crush: 1.015000
+t_stat_crush: 1.201752
+t_p_crush: 0.315675
+w_stat_crush: 2.000000
+w_p_crush: 0.375000
