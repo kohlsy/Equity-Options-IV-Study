@@ -67,8 +67,8 @@ This is inspired by how professional options desks analyze volatility and risk.
 
 ## 🚀 How to Run
 ```bash
-git clone <this-repo>
-cd <this-repo>
+git clone https://github.com/kohlsy/Equity-Options-IV-Study.git
+cd equity-options-iv-study
 pip install -r requirements.txt
 python download_data.py   # fetches ^VIX data to VIXCLS.csv
 python iv_research_project.py
